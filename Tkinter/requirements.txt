@@ -1,0 +1,4 @@
+netmiko
+textfsm
+ntc-templates
+pandas

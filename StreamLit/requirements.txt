@@ -1,0 +1,5 @@
+streamlit
+netmiko
+textfsm
+ntc-templates
+pandas
