@@ -1,6 +1,6 @@
 # Show_Runner
 
-<img src="/Images/item-1.png" alt="Image Description" width="500" height="300">
+<img src="/Images/item-1.png" alt="Image Description" width="300" height="300">
 
 ### (Streamlit Version)
 <img src="/Images/img_1_1.png" alt="Image Description" width="500" height="300">
