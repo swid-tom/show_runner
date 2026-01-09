@@ -444,5 +444,4 @@ pyinstaller --noconfirm --onefile --windowed --name tk_collector_app tk_collecto
 
 ---
 
-Happy automating!
 
