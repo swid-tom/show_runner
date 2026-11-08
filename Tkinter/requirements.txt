@@ -2,3 +2,4 @@ netmiko
 textfsm
 ntc-templates
 pandas
+pyinstaller>=6,<7
